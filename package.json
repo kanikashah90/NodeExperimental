@@ -1,0 +1,24 @@
+{
+  "name": "nodeexperimental",
+  "version": "1.0.0",
+  "description": "Try out node experimental features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanikashah90/NodeExperimental.git"
+  },
+  "keywords": [
+    "node",
+    "experimental",
+    "performance_hooks"
+  ],
+  "author": "Kanika Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanikashah90/NodeExperimental/issues"
+  },
+  "homepage": "https://github.com/kanikashah90/NodeExperimental#readme"
+}
